@@ -140,3 +140,5 @@ cython_debug/
 
 images/
 media/
+
+add_info.py
