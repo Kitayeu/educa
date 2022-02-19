@@ -8,7 +8,7 @@ ADMINS = (
     ('Vanya K', os.environ.get('EMAIL_USER')),
 )
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['educaproject.com', 'www.educaproject.com']
 
 DATABASES = {
     'default': {
