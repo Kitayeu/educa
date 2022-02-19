@@ -140,5 +140,6 @@ cython_debug/
 
 images/
 media/
+statics/
 
 add_info.py
