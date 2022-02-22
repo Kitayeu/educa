@@ -140,3 +140,7 @@ cython_debug/
 
 images/
 media/
+ssl/
+statics/
+
+add_info.py
